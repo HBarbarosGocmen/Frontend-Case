@@ -1,0 +1,11 @@
+.swiper-container {
+    width: 100%;
+  }
+
+  .swiper-slide {
+    width: 30%;
+  }
+
+  .swiper-slide .card {
+    flex: 0 0 auto;
+  }
